@@ -10,7 +10,6 @@ CREATE TABLE Store (
     phone           VARCHAR(20),
     PRIMARY KEY (store_id)
 );
-
 -- Position(pos_code, title, description, pay_range_high, pay_range_low)
 -- - pos_code is a unique identifier
 
