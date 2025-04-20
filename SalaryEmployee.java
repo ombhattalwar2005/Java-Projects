@@ -5,7 +5,7 @@ public class SalaryEmployee extends Employee
 	{
 		super(name);
 		this.salary = salary;
-	}//end constructor
+	}//
 	public double getPayment()
 	{
 		double payment = salary/12;
