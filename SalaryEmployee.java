@@ -16,3 +16,4 @@ public class SalaryEmployee extends Employee
 		return String.format("%s, salary:$%.02f", super.toString(), salary);
 	}
 }
+
