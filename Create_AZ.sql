@@ -1,5 +1,4 @@
 -- Store(store_id, address+, zip_code, phone)
-
 CREATE TABLE Store (
     store_id        NUMERIC(8),
     street_num      VARCHAR(10),
