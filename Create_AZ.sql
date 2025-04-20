@@ -21,7 +21,6 @@ CREATE TABLE Position (
     pay_range_low   NUMERIC(8,2),
     PRIMARY KEY (pos_code)
 );
-
 -- Skill(sk_code, title, description, sk_level)
 -- - sk_code is a unique identifier
 -- - sk_level can be 'beginner', 'medium', 'advanced'
