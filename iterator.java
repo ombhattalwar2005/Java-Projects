@@ -10,7 +10,6 @@ public class iterator
         colors.add("red");
         colors.add("yellow");
         colors.add("black");
-        //add element,s to colors (red, gree, blue,yel,,blak white)
 
         Iterator<String> it = colors.iterator();
         int index = 0;
