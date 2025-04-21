@@ -47,7 +47,7 @@ public class Sorters2120 {
                 
             }
         }
-        /*for(startIndex = 0; startIndex < theList.size()-1; startIndex++)
+        for(startIndex = 0; startIndex < theList.size()-1; startIndex++)
         {
             minElement = theList.get(startIndex);
             comparedIndex = startIndex+1;
@@ -67,14 +67,7 @@ public class Sorters2120 {
             {
                 swap(theList, comparedIndex, startIndex+1);
             }
-        }*/
-
-       /* else if( minElement.compareTo(theList.get(comparedIndex)) == 1)
-        {
-            swap(theList, startIndex, comparedIndex);
-            comparedIndex++;
-        }*/
-        
+        }
     }
 
     public static <T extends Comparable<T> > void mergeSort(List<T> theList) {
