@@ -1,27 +1,8 @@
-/*
-	Text based Tamagotchi
-	By Emmanuel Adefuye 20/03/2019
-*/
+
 import java.util.Scanner;
 public class VirtualPet
 {
-	//Declare class petAttributes
-		//name, age, cleanliness, happiness, hunger, petRunAway boolean
-	//createPet method 
-		//set the attribute variables
-	//interaction method
-		//while petRunAway is false
-			//increase Age
-			//player interaction
-				//feed, pet, play
-			//display status (current cleanliness, happiness, hunger)
-			//if cleanliness, happiness, hunger is less than a TBD value
-				//petRunAway is true
-					// if age is less than a TBD value, display corresponding petRunAway message
-				//prompt user to start over
-			//else petRunAway is false
-				//loop and increase age by 1
-	//Print how old the pet is and feeling
+	
 	public static void main(String[] args)
 	{
 		VirtualPet tamagotchi = new VirtualPet();
