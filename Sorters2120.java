@@ -47,7 +47,6 @@ public class Sorters2120 {
                 
             }
         }
-
         /*for(startIndex = 0; startIndex < theList.size()-1; startIndex++)
         {
             minElement = theList.get(startIndex);
