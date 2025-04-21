@@ -7,7 +7,7 @@ public class CommissionEmployee extends Employee
 		super(name);
 		this.commisionRate = rate;
 		this.totalSales = sales;
-	}//end constructor
+	}
 	public double getPayment()
 	{
 		double payment = commisionRate * totalSales;
