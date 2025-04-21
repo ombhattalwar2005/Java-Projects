@@ -13,7 +13,7 @@ ORDER  BY pay_rate DESC;
 -- 3. List the average annual pay (the salary or wage rates
 --    multiplying by 1920 hours) of each store/factory in descending
 --    order.
--- AZ
+-- A
 WITH annual_pay (store_id, salary)
      AS (SELECT store_id,
                 CASE
