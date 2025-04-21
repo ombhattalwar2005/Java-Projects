@@ -19,7 +19,6 @@ public class Sorters2120 {
         theList.set(i1,theList.get(i2));
         theList.set(i2,temp);
     }
-
     private static int startIndex = 0;
     private static int comparedIndex = startIndex+1;
 
