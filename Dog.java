@@ -7,7 +7,6 @@ public class Dog implements Comparable<Dog> {
         this.name = name;
         this.weight = weight;
     }
-
     public void setName(String n) {
         this.name = n;
     }
