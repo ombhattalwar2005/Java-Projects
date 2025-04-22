@@ -20,7 +20,6 @@ public class Sorters2120 {
     }
     private static int startIndex = 0;
     private static int comparedIndex = startIndex+1;
-
     public static <T extends Comparable<T> > void selectionSort(List<T> theList)
     {
         T minElement = theList.get(startIndex);
