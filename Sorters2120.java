@@ -26,7 +26,7 @@ public class Sorters2120 {
         
         if( minElement.compareTo(maxElement) == -1 )
             {
-                //System.out.println("Through")
+               
                 if(comparedIndex < theList.size()-1)
                 {
                     comparedIndex++;
