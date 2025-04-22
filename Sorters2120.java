@@ -96,7 +96,6 @@ public class Sorters2120 {
         return recursiveBinarySearcher(searchItem, theList, 0, theList.size()-1);
 
     }
-
     private static <T extends Comparable<T> > int recursiveBinarySearcher(T searchItem, List<T> theList, int first, int last) {
 
         
