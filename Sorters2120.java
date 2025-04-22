@@ -59,7 +59,7 @@ public class Sorters2120 {
                 swap(theList, comparedIndex, startIndex);
                 selectionSort(theList);
             }
-            else//if they're 
+            else
             {
                 swap(theList, comparedIndex, startIndex+1);
             }
