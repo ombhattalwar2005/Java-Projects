@@ -69,7 +69,6 @@ public class Sorters2120 {
     public static <T extends Comparable<T> > void mergeSort(List<T> theList) {
         recursiveMergeSortHelper(theList,0,theList.size());
     }
-
     private static <T extends Comparable<T> > void recursiveMergeSortHelper(List<T> theList, int first, int last)
     {
         if(last < theList.size()+1)
