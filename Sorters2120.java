@@ -1,7 +1,6 @@
 import java.util.List;
 import java.lang.Comparable;
 public class Sorters2120 {
-
     public static <T extends Comparable<T> > void bubbleSort(List<T> theList) {
         int lastToConsider = theList.size();
         while (lastToConsider > 1) {
