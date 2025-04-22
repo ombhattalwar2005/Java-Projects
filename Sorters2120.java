@@ -53,7 +53,7 @@ public class Sorters2120 {
                 comparedIndex++;
                 selectionSort(theList);
             }
-            else if(minElement.compareTo(theList.get(comparedIndex)) == 1)//greater th
+            else if(minElement.compareTo(theList.get(comparedIndex)) == 1)//gter th
             {
                 minElement = theList.get(comparedIndex);
                 swap(theList, comparedIndex, startIndex);
