@@ -49,7 +49,7 @@ public class Sorters2120 {
             minElement = theList.get(startIndex);
             comparedIndex = startIndex+1;
 
-            if( minElement.compareTo(theList.get(comparedIndex)) == -1 )//less tha
+            if( minElement.compareTo(theList.get(comparedIndex)) == -1 )
             {
                 comparedIndex++;
                 selectionSort(theList);
