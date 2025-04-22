@@ -33,7 +33,7 @@ public class Sorters2120 {
                     selectionSort(theList);
                 }
             }
-        else if(minElement.compareTo(maxElement) == 1 )//greater tha
+        else if(minElement.compareTo(maxElement) == 1 )
         {
             swap(theList, startIndex, comparedIndex);
             if(comparedIndex < theList.size()-1)
