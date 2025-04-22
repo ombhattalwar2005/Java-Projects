@@ -41,7 +41,6 @@ public class Sorters2120 {
                 comparedIndex++;
                 minElement = maxElement;
                 selectionSort(theList);
-                
             }
         }
         for(startIndex = 0; startIndex < theList.size()-1; startIndex++)
