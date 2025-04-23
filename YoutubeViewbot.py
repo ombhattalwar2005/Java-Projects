@@ -9,7 +9,7 @@ from selenium import webdriver;
 #applicati
 def window():
     def runBot():
-        #time to refresh page (seconds
+        #time to refresh page (secon
         Timer = int(timeInput.text())
 
         #youtube link
