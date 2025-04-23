@@ -6,7 +6,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow
 import sys
 from selenium import webdriver;
 
-#application
+#applicati
 def window():
     def runBot():
         #time to refresh page (seconds
