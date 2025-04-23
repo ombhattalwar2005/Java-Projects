@@ -1,4 +1,4 @@
-#Selenium Webdriver must be installed 
+#Selenium Webdriver must be 
 
 import time;
 from PyQt5 import QtWidgets
