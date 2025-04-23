@@ -26,7 +26,7 @@ def window():
             time.sleep(Timer)
             driver.refresh()
         
-#------WINDOW--------
+#------WINDOW-----
     app = QApplication(sys.argv)
     win = QMainWindow()
     win.setGeometry(200, 200, 300, 150)
