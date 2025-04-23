@@ -1,4 +1,4 @@
-#Selenium Webdri
+#Selenium 
 import time;
 from PyQt5 import QtWidgets
 from PyQt5 import QtGui
