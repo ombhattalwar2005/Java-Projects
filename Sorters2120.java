@@ -73,7 +73,7 @@ public class Sorters2120 {
         if(last < theList.size()+1)
         {
             int middle = (last-1)/2;
-            if(theList.get(first).compareTo(theList.get(last-1)) == -1)//if its in order 
+            if(theList.get(first).compareTo(theList.get(last-1)) == -1)//if it in order 
             {
                 if(first < middle)
                 {
