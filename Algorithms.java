@@ -8,6 +8,8 @@ import org.junit.Test;
 public class SortersTester {
   private ArrayList<Dog> pack;
   private ArrayList<Dog> emptyList;
+
+  
   @Before
   public void setup() {
     emptyList = new ArrayList<Dog>();
