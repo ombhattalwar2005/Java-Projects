@@ -8,6 +8,4 @@ public class DogRunner{
         System.out.println(fifi.getWeight());
 
     }
-
-
 }
