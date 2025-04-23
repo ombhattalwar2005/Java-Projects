@@ -80,7 +80,7 @@ public class Sorters2120 {
                     recursiveMergeSortHelper(theList, first, middle);
                 }
             }
-            else if(theList.get(first).compareTo(theList.get(last-1)) == 1)//if its out of 
+            else if(theList.get(first).compareTo(theList.get(last-1)) == 1)
             {
                 swap(theList, first, middle);
                 if(first < middle)
