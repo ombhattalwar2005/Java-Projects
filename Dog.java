@@ -16,7 +16,6 @@ public class Dog implements Comparable<Dog> {
     public String getName() {
         return this.name;
     }
-
     public double getWeight() {
 
         return this.weight;
