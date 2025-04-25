@@ -13,6 +13,7 @@ public class SortersRunner {
         System.out.println("----------initial state----------");
         for (Dog d : myDogs)
             System.out.println(d);
+        
 
         Sorters2120.bubbleSort(myDogs);
 
