@@ -8,7 +8,7 @@ from selenium import webdriver;
 
 def window():
     def runBot():
-        #time to refresh 
+        #time to refre
         Timer = int(timeInput.text())
 
         #youtube 
