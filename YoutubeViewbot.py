@@ -6,7 +6,6 @@ import sys
 from selenium import webdriver;
 def window():
     def runBot():
-        #time to 
         Timer = int(timeInput.text())
 
         #youtube 
