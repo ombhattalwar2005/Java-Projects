@@ -11,7 +11,7 @@ def window():
         #time to refresh page (secon
         Timer = int(timeInput.text())
 
-        #youtube link
+        #youtube 
         link = linkInput.text()
 
         #number of views
