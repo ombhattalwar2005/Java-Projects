@@ -8,7 +8,7 @@ def window():
     def runBot():
         Timer = int(timeInput.text())
 
-        #yo
+        #
         link = linkInput.text()
 
         #number of views
