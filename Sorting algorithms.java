@@ -9,6 +9,7 @@ public class SortersRunner {
         for (int i=0; i < dogNames.length; i++) {
             myDogs.add(new Dog(dogNames[i], 80.0 - i*7));
         }
+        
 
         System.out.println("----------initial state----------");
         for (Dog d : myDogs)
