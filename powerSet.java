@@ -7,7 +7,6 @@ public class powerSet{
                 input[i] = args[i];
             }
         }
-
 		LinkedHashSet hashSet = new LinkedHashSet();
 		int len = input.length;
 		int elements = (int) Math.pow(2, len);
