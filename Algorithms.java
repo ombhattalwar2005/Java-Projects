@@ -43,7 +43,6 @@ public class SortersTester {
     Sorters2120.bubbleSort(pack);
     assertTrue(isInOrder(pack));
 
-    // Test Sorting on a sortedList
     Sorters2120.bubbleSort(pack);
     assertTrue(isInOrder(pack));
   }
