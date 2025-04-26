@@ -11,7 +11,7 @@ public class SortersTester {
   private ArrayList<Dog> emptyList;
 
   
-  @Before
+  
   public void setup() {
     emptyList = new ArrayList<Dog>();
     pack = new ArrayList<Dog>();
