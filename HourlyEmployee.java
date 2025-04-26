@@ -17,3 +17,4 @@ public class HourlyEmployee extends Employee{
 		return String.format("%s, hourly:$%.02f @ %.02f hours", super.toString(), hourlyRate, hoursWorked);
 	}
 }
+
