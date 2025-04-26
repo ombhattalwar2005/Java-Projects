@@ -52,7 +52,6 @@ public class SortersTester {
 
   @Test
   public void testSelectionSort() {
-    // Test sort can handle emptyList
     Sorters2120.selectionSort(emptyList);
     assertTrue(emptyList.size() == 0);
 
