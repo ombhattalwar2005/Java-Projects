@@ -5,7 +5,7 @@ public class powerSet{
         if(args.length > 0){
             for(int i = 0; i < args.length; i++){
                 input[i] = args[i];
-	    }
+	 }
         }
 		LinkedHashSet hashSet = new LinkedHashSet();
 		int len = input.length;
