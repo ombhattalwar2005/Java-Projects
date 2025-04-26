@@ -23,8 +23,6 @@ public class SortersTester {
     pack.add(new Dog("Nutmeg", 68));
     pack.add(new Dog("Copernicus", 87));
   }
-
-
   private boolean isInOrder(List<Dog> pack) {
     boolean inOrder = true;
     String[] names = {"Watson", "Sansa",      "Phineas", "Nutmeg",   "Josie",
