@@ -1,5 +1,4 @@
-public class DogRunner{
-
+public class DogRunner
     public static void main(String[] args) {
 
         Dog fifi = new Dog("Fifi", 6.3);
