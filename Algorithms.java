@@ -39,7 +39,7 @@ public class SortersTester {
   
   @Test
   public void testBubbleSort() {
-    // Test sort can handle emptyList
+    // Test sort can handle empty
     Sorters2120.bubbleSort(emptyList);
     assertTrue(emptyList.size() == 0);
 
