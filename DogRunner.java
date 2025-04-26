@@ -1,4 +1,4 @@
-public class DogRunner
+public class Runner{
     public static void main(String[] args) {
 
         Dog fifi = new Dog("Fifi", 6.3);
