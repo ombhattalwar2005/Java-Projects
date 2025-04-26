@@ -6,7 +6,7 @@ public class HourlyEmployee extends Employee{
 		super(name);
 		this.hourlyRate = rate;
 		this.hoursWorked = hours;
-	}//end constructo
+	}//end constru
 	public double getPayment()
 	{
 		double payment = hourlyRate * hoursWorked;
