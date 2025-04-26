@@ -18,7 +18,7 @@ public class powerSet{
 			for (int k = value; k < len; k++) {
 				pset = "0" + pset;
 			}
-		
+	
 
 			LinkedHashSet set = new LinkedHashSet();
 			for (int j = 0; j < pset.length(); j++) {
