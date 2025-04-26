@@ -53,7 +53,6 @@ public class SortersTester {
     Sorters2120.selectionSort(emptyList);
     assertTrue(emptyList.size() == 0);
 
-    // Test normal case sorting
     assertFalse(isInOrder(pack));
     Sorters2120.selectionSort(pack);
     assertTrue(isInOrder(pack));
