@@ -1,7 +1,6 @@
 public class HourlyEmployee extends Employee
-
-	
-	private double hourlyRate;
+{
+	private double hourlyRatee
 	private double hoursWorked;
 	public HourlyEmployee(String name, double rate, double hours)
 	{
