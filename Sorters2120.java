@@ -9,7 +9,7 @@ public class Sorters2120 {
                     swap(theList,j,j+1);
                 }
             }
-            lastToConside
+            lastToConsid
         }
     }
     private static <T extends Comparable<T> > void swap(List<T> theList, int i1, int i2) {
