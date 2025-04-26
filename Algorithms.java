@@ -34,8 +34,7 @@ public class SortersTester {
   }
   
 
-  
-  
+
   @Test
   public void testBubbleSort() {
     Sorters2120.bubbleSort(emptyList);
