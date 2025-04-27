@@ -12,6 +12,7 @@ public class SortersTester {
   
   private ArrayList<Dog> emptyList;
   public void setup() {
+    
     emptyList = new ArrayList<Dog>();
     pack = new ArrayList<Dog>();
     pack.add(new Dog("Josie", 74));
