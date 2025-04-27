@@ -9,7 +9,7 @@ public class Sorters2120 {
                     swap(theList,j,j+1);
                 }
             }
-            lastT
+            la
         }
     }
     
