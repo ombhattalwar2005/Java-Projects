@@ -34,8 +34,6 @@ public class SortersTester {
   public void testBubbleSort() {
     Sorters2120.bubbleSort(emptyList);
     assertTrue(emptyList.size() == 0);
-
-   
     assertFalse(isInOrder(pack));
     Sorters2120.bubbleSort(pack);
     assertTrue(isInOrder(pack));
