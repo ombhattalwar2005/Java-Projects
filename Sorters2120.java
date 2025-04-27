@@ -4,6 +4,7 @@ public class Sorters2120 {
     public static <T extends Comparable<T> > void bubbleSort(List<T> theList) {
         int lastToConsider = theList.size();
         while (lastToConsider > 1) {
+            
             for (int j=0; j<lastToConsider-1; j++) {
                 if (theList.get(j).compareTo(theList.get(j+1))  >  0 ) {
                     swap(theList,j,j+1);
