@@ -30,7 +30,6 @@ public class SortersTester {
     }
     return inOrder;
   }
-
   @Test
   public void testBubbleSort() {
     Sorters2120.bubbleSort(emptyList);
