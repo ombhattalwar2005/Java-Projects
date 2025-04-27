@@ -35,6 +35,7 @@ public class Sorters2120 {
                     selectionSort(theList);
                 }
             }
+            
         else if(minElement.compareTo(maxElement) == 1 )
         {
             swap(theList, startIndex, comparedIndex);
