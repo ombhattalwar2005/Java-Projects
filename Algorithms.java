@@ -30,7 +30,7 @@ public class SortersTester {
     }
     return inOrder;
   }
-  
+
 
   @Test
   public void testBubbleSort() {
