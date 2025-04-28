@@ -5,6 +5,7 @@ public abstract class Employee
 	public Employee(String name)
 	{
 		
+		
 		this.name = name;
 	}
 	public String toString(){return name;}
