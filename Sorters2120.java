@@ -25,6 +25,7 @@ public class Sorters2120 {
     {
         T minElement = theList.get(startIndex);
         T maxElement = theList.get(comparedIndex);
+
         
         if( minElement.compareTo(maxElement) == -1 )
             {
