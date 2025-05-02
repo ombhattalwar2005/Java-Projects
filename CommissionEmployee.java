@@ -6,6 +6,9 @@ public class CommissionEmployee extends Employee
 	{
 		super(name);
 		this.commisionRate = rate;
+
+
+		
 		this.totalSales = sales;
 	}
 	public double getPayment()
