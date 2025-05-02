@@ -30,6 +30,7 @@ public class Sorters2120 {
         
         if( minElement.compareTo(maxElement) == -1 )
             {
+                
                
                 if(comparedIndex < theList.size()-1)
                 {
