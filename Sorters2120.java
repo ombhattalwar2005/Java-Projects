@@ -33,6 +33,7 @@ public class Sorters2120 {
                 
                
                 if(comparedIndex < theList.size()-1)
+                    
                 {
                     comparedIndex++;
                     selectionSort(theList);
