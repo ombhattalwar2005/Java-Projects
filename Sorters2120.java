@@ -8,6 +8,7 @@ public class Sorters2120 {
             for (int j=0; j<lastToConsider-1; j++) {
                 if (theList.get(j).compareTo(theList.get(j+1))  >  0 ) {
                     swap(theList,j,j+1);
+                    
                 }
             }
         }
