@@ -14,6 +14,7 @@ public class CommissionEmployee extends Employee
 		return payment;
 	
 	}
+	
 	public String toString()
 	{
 		return String.format("%s, commission:%.02f%% @ $%.02f sales", super.toString(), commisionRate, totalSales);
