@@ -8,7 +8,6 @@ public class CommissionEmployee extends Employee
 		this.commisionRate = rate;
 		this.totalSales = sales;
 	}
-	
 	public double getPayment()
 	{
 		double payment = commisionRate * totalSales;
