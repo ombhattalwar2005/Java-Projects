@@ -12,6 +12,7 @@ public class CommissionEmployee extends Employee
 	{
 		double payment = commisionRate * totalSales;
 		return payment;
+		
 	}
 	public String toString()
 	{
