@@ -6,7 +6,6 @@ public class Runner {
         System.out.println(fifi.getWeight());
 
     }
-
 }
 
 
