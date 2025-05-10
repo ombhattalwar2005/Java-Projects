@@ -7,6 +7,7 @@ public class SalaryEmployee extends Employee
 		this.salary = salary;
 	}
 	public double getPayment()
+	
 	{
 		double payment = salary/12;
 		return payment/2;
