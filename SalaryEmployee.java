@@ -13,6 +13,7 @@ public class SalaryEmployee extends Employee
 		double payment = salary/12;
 		return payment/2;
 	}
+	
 	public String toString()
 	{
 		return String.format("%s, salary:$%.02f", super.toString(), salary);
