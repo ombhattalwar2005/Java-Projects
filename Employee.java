@@ -6,6 +6,7 @@ public abstract class Employee
 		this.name = name;
 
 	}
+	
 	public String toString(){return name;}
 	public abstract double getPayment();
 }
