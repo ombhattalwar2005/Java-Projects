@@ -6,6 +6,7 @@
 
 
 
+
 public class SalaryEmployee extends Employee
 {
 	private double salary;
