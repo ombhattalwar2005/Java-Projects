@@ -8,3 +8,4 @@ public abstract class Employee
 	public String toString(){return name;}
 	public abstract double getPayment();
 }
+
