@@ -1,6 +1,7 @@
 
 
 
+
 public class Dog implements Comparable<Dog> {
     private String name;
     private double weight;
