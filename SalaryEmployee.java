@@ -3,6 +3,7 @@ public class SalaryEmployee extends Employee
 	private double salary;
 	public SalaryEmployee(String name, double salary)
 	{
+		
 		super(name);
 		this.salary = salary;
 	}
